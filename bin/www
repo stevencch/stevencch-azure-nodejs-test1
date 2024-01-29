@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 const appInsights = require('applicationinsights');
-appInsights.setup('934c3248-e3f3-4ffa-b32b-bdaf4511e568');
+appInsights.setup('4386084a-92e8-45eb-9ed2-4f79e176e39e');
 appInsights.start();
 let start = Date.now();
 
